@@ -1,0 +1,22 @@
+{
+  "name": "broadcast-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "amanmohdtp",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "@hapi/boom": "^10.0.1",
+    "jimp": "^0.16.13",
+    "mime-types": "^2.1.35",
+    "node-cache": "^5.1.2",
+    "pino": "^8.21.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+Your message here, hi {name}!
+
+<b1>Yes, I'm interested<b1>
+<b2>Send me more info<b2>
+<b3>Not now<b3>
+
+<r1>Great! We'll be in touch soon 🙌<r1>
+<r2>Here's our link: https://...<r2>
+<r3>No problem, take care! 👋<r3>
