@@ -1,3 +1,8 @@
+> [!CAUTION]
+> The Buttons Are Deprecated, So They won't Work!
+> 
+> Due to WhatsApp's Strict regulations, Sending More than 50 people at one day can cause you a temporary Or permanent ban.
+
 # 🎩 WhatsApp Broadcaster Bot
 
 A WhatsApp bulk messaging bot built on Baileys.
